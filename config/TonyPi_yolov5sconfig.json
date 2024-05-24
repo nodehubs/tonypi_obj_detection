@@ -1,0 +1,5 @@
+{
+	"model_file": "/opt/nodehub_model/tonypi_detection/tonypi_target_detection.bin",
+	"class_num": 4,
+	"cls_names_list": "config/TonyPi_target.list"
+}
